@@ -1,0 +1,60 @@
+[31-Oct-2018 19:32:03 UTC] PHP Notice:  Undefined variable: price in /var/www/html/wp-content/plugins/contempo-real-estate-custom-posts-modified/includes/ct-real-estate-custom-shortcodes.php on line 141
+[31-Oct-2018 19:32:03 UTC] PHP Stack trace:
+[31-Oct-2018 19:32:03 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[31-Oct-2018 19:32:03 UTC] PHP   2. require() /var/www/html/index.php:17
+[31-Oct-2018 19:32:03 UTC] PHP   3. require_once() /var/www/html/wp-blog-header.php:19
+[31-Oct-2018 19:32:03 UTC] PHP   4. include() /var/www/html/wp-includes/template-loader.php:74
+[31-Oct-2018 19:32:03 UTC] PHP   5. the_content() /var/www/html/wp-content/themes/realestate-7-child/template-full-width.php:46
+[31-Oct-2018 19:32:03 UTC] PHP   6. apply_filters() /var/www/html/wp-includes/post-template.php:240
+[31-Oct-2018 19:32:03 UTC] PHP   7. WP_Hook->apply_filters() /var/www/html/wp-includes/plugin.php:203
+[31-Oct-2018 19:32:03 UTC] PHP   8. call_user_func_array:{/var/www/html/wp-includes/class-wp-hook.php:286}() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:03 UTC] PHP   9. do_shortcode() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:03 UTC] PHP  10. preg_replace_callback() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:03 UTC] PHP  11. do_shortcode_tag() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:03 UTC] PHP  12. call_user_func:{/var/www/html/wp-includes/shortcodes.php:319}() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:03 UTC] PHP  13. ct_listings_shortcode() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:03 UTC] PHP Notice:  Undefined variable: price in /var/www/html/wp-content/plugins/contempo-real-estate-custom-posts-modified/includes/ct-real-estate-custom-shortcodes.php on line 141
+[31-Oct-2018 19:32:03 UTC] PHP Stack trace:
+[31-Oct-2018 19:32:03 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[31-Oct-2018 19:32:03 UTC] PHP   2. require() /var/www/html/index.php:17
+[31-Oct-2018 19:32:03 UTC] PHP   3. require_once() /var/www/html/wp-blog-header.php:19
+[31-Oct-2018 19:32:03 UTC] PHP   4. include() /var/www/html/wp-includes/template-loader.php:74
+[31-Oct-2018 19:32:03 UTC] PHP   5. the_content() /var/www/html/wp-content/themes/realestate-7-child/template-full-width.php:46
+[31-Oct-2018 19:32:03 UTC] PHP   6. apply_filters() /var/www/html/wp-includes/post-template.php:240
+[31-Oct-2018 19:32:03 UTC] PHP   7. WP_Hook->apply_filters() /var/www/html/wp-includes/plugin.php:203
+[31-Oct-2018 19:32:03 UTC] PHP   8. call_user_func_array:{/var/www/html/wp-includes/class-wp-hook.php:286}() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:03 UTC] PHP   9. do_shortcode() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:03 UTC] PHP  10. preg_replace_callback() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:03 UTC] PHP  11. do_shortcode_tag() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:03 UTC] PHP  12. call_user_func:{/var/www/html/wp-includes/shortcodes.php:319}() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:03 UTC] PHP  13. ct_listings_shortcode() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:07 UTC] PHP Notice:  Undefined variable: price in /var/www/html/wp-content/plugins/contempo-real-estate-custom-posts-modified/includes/ct-real-estate-custom-shortcodes.php on line 141
+[31-Oct-2018 19:32:07 UTC] PHP Stack trace:
+[31-Oct-2018 19:32:07 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[31-Oct-2018 19:32:07 UTC] PHP   2. require() /var/www/html/index.php:17
+[31-Oct-2018 19:32:07 UTC] PHP   3. require_once() /var/www/html/wp-blog-header.php:19
+[31-Oct-2018 19:32:07 UTC] PHP   4. include() /var/www/html/wp-includes/template-loader.php:74
+[31-Oct-2018 19:32:07 UTC] PHP   5. the_content() /var/www/html/wp-content/themes/realestate-7-child/template-full-width.php:46
+[31-Oct-2018 19:32:07 UTC] PHP   6. apply_filters() /var/www/html/wp-includes/post-template.php:240
+[31-Oct-2018 19:32:07 UTC] PHP   7. WP_Hook->apply_filters() /var/www/html/wp-includes/plugin.php:203
+[31-Oct-2018 19:32:07 UTC] PHP   8. call_user_func_array:{/var/www/html/wp-includes/class-wp-hook.php:286}() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:07 UTC] PHP   9. do_shortcode() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:07 UTC] PHP  10. preg_replace_callback() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:07 UTC] PHP  11. do_shortcode_tag() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:07 UTC] PHP  12. call_user_func:{/var/www/html/wp-includes/shortcodes.php:319}() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:07 UTC] PHP  13. ct_listings_shortcode() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:07 UTC] PHP Notice:  Undefined variable: price in /var/www/html/wp-content/plugins/contempo-real-estate-custom-posts-modified/includes/ct-real-estate-custom-shortcodes.php on line 141
+[31-Oct-2018 19:32:07 UTC] PHP Stack trace:
+[31-Oct-2018 19:32:07 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[31-Oct-2018 19:32:07 UTC] PHP   2. require() /var/www/html/index.php:17
+[31-Oct-2018 19:32:07 UTC] PHP   3. require_once() /var/www/html/wp-blog-header.php:19
+[31-Oct-2018 19:32:07 UTC] PHP   4. include() /var/www/html/wp-includes/template-loader.php:74
+[31-Oct-2018 19:32:07 UTC] PHP   5. the_content() /var/www/html/wp-content/themes/realestate-7-child/template-full-width.php:46
+[31-Oct-2018 19:32:07 UTC] PHP   6. apply_filters() /var/www/html/wp-includes/post-template.php:240
+[31-Oct-2018 19:32:07 UTC] PHP   7. WP_Hook->apply_filters() /var/www/html/wp-includes/plugin.php:203
+[31-Oct-2018 19:32:07 UTC] PHP   8. call_user_func_array:{/var/www/html/wp-includes/class-wp-hook.php:286}() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:07 UTC] PHP   9. do_shortcode() /var/www/html/wp-includes/class-wp-hook.php:286
+[31-Oct-2018 19:32:07 UTC] PHP  10. preg_replace_callback() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:07 UTC] PHP  11. do_shortcode_tag() /var/www/html/wp-includes/shortcodes.php:197
+[31-Oct-2018 19:32:07 UTC] PHP  12. call_user_func:{/var/www/html/wp-includes/shortcodes.php:319}() /var/www/html/wp-includes/shortcodes.php:319
+[31-Oct-2018 19:32:07 UTC] PHP  13. ct_listings_shortcode() /var/www/html/wp-includes/shortcodes.php:319
